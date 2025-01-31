@@ -1,0 +1,35 @@
+Timeline TimeSheet Steven Tjayadi Power Automate 061: 
+
+1. 4 September 2024   : Review PDD Power Automate Project 061
+2. 5 September 2024   : Development 061: Preprocessing Excel (Standarize & Formatting date)
+3. 6 September 2024   : Development 061: Create Pivot Table (Part 1) 
+
+4. 9 September 2024   : Development 061: Learn VB Script for creating Pivot Table and Create HTML Email Format
+5. 10 September 2024  : Development 061: Presentation of Code Review  
+6. 11 September 2024  : Development 061: Connect the Telkomsel environment into my code
+7. 12 September 2024  : Development 061: Connect into SharePoint List, Excel Online, and Outlook Online
+8. 13 September 2024  : Development 061: Fixing the HTML format email sending in Creating Pivot Table 
+ 
+9. 16 September 2024  : Hari Libur 
+10. 17 September 2024 : Development 061: Create Local Folder Subflow, and fixing the remaining format of code
+11. 18 September 2024 : SIT 
+12. 19 September 2024 : Development 061: Correct the variable, project format based on coding standards
+13. 20 September 2024 : Development 061: Checking the connection, variable, and fixing the code 
+
+14. 23 September 2024 : SIT (Part 2)
+15. 24 September 2024 : UAT and fixing the Business Exception, Work Queue, and format based on UAT Presentation (Part 1)
+16. 25 September 2024 : Development 061: Fixing Business Exception, Work Queue, and format based on UAT Presentation (Part 2)
+17. 26 September 2024 : Development 061: Create DPA Trigger Dispatcher and Performer 
+18. 27 September 2024 : Test Document Power Automate 061 (part 2)
+
+19. 30 September 2024 : Exercise Deployment Project and create Deployment Checklist
+20. 1 Oktober 2024    : Deployment Project Power Automate 061
+21. 2 Oktober 2024    : Development 061: Fixing the DPA in Dispatcher and Performer
+22. 3 Oktober 2024    : Development 061: Fixing the email outlook online format and DPA connection 
+23. 4 Oktober 2024    : Development 061: Crosscek the code in Power Automate and make sure the connection DPA and RPA is connected 
+
+24. 7 Oktober 2024    : Test Sanity
+25. 8 Oktober 2024    : Development 061: Fixing the download sharepoint, forward email, and cleantempfiles flow
+26. 9 Oktober 2024    : User Manual Migration Power Automate 061 
+27. 10 Oktober 2024   : Sanity Test and testing into Production with Evidence Sanity Test
+28. 11 Oktober 2024   : Crosscek + Testing DPA connect to RPA and Forward Email untuk trigger email
